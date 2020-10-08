@@ -1,6 +1,8 @@
 # MixExcelBooks
 合并Excel工作簿
 
+<a href="https://github.com/ZogeMung/MixExcelBooks/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ZogeMung/MixExcelBooks"></a>
+
 更新日志：
 
 v1.2.0.5
